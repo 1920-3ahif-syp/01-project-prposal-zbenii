@@ -13,11 +13,13 @@ eigentlich täglich mit seinem Handy interagiert.
 ## Projektziele  
 ### **Sinn/Zweck des Projekts**  
 Der Sinn dieser App ist es den Schüleralltag zu vereinfachen, sodass man seine  
-Hausübungen nicht vergisst. Mit dieser App hat man allle HÜ's auf einem Ort.  
+Hausübungen nicht vergisst. Diese sind besser zu verwalten bzw. zu erledigen wenn  
+man alle in einer App gespeichert hat.
 
-Funktionen der App:
+### Funktionen der App
 - Hausübungen eintragen/löschen mit Datum, Stoff und Abgabeart (z.B.: Moodle)
-- Benachrichtungen über bald abzugebende Hausübungen (selber anpassbar)
+- Benachrichtungen über bald abzugebende Hausübungen  
+(Zeitpunkt, Benachrichtungsart selbst konfigurierbar)
 
 ### **Betroffene**  
 Schüler
