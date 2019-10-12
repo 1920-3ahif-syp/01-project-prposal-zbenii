@@ -2,7 +2,7 @@
 ## Projektbezeichnung  
 Hausübungsmanager
 ## Projektauftraggeber
-Dies ist ein Projekt für das Fach SYP, demnach ist es unser Professor.
+Prof. Mag. Dr. Thomas Stütz
 
 ## Projekthintergrund
 In diesem Schuljahr haben wir viele verschiedene Hausaufgaben und da ist es sehr     
